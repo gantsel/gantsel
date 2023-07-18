@@ -8,6 +8,17 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+
 <!--
 **gantsel/gantsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
